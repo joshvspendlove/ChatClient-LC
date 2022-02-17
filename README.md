@@ -1,1 +1,1 @@
-# ChatClient-MVC
+# ChatClient-LC
